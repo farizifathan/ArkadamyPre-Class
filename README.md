@@ -1,4 +1,7 @@
 # ArkadamyPre-Class
+Mohon Maaf tadi ada kesalahan upload file untuk # Level 3 Tugas 10
+untuk github file Level3 Tugas 10:https://github.com/farizifathan/Level3Tugas10
+terimakasih
 
 # Level1 Tugas 1
 ![level1tugas1](https://user-images.githubusercontent.com/58783014/97083895-7fed3400-163d-11eb-927d-2914da20d39b.png)
