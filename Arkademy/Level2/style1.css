@@ -1,0 +1,46 @@
+.jumbotron{
+	background-image: url(Bakcground.png);
+	filter: grayscale(40%);
+	background-size: cover;
+	height: 800px;
+	text-align: center;
+
+}
+
+.jumbotron h1{
+font-family: 'Great Vibes', cursive;
+color: white;
+
+}
+
+.jumbotron p{
+	font-family: Pacifico;
+	font-size: 48px;
+	color:#FCB371;
+
+}
+
+.jumbotron  #right{
+background-color: transparent;
+position: absolute;
+width: 156px;
+height: 46px;
+left: 477px;
+top: 481px;
+
+border: 2px solid #FCB371;
+box-sizing: border-box;
+border-radius: 6px;
+}
+
+.jumbotron  #left{
+position: absolute;
+width: 156px;
+height: 46px;
+left: 646px;
+top: 481px;
+
+background: #FCB371;
+border-radius: 6px;
+}
+
